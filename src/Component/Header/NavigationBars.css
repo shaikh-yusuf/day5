@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color: rgb(36, 170, 36);
+    /* padding: 20px; */
+}
+.main a{
+    padding:  30px;
+    text-decoration: none;
+    transition: 0.8s;
+    color: #fff;
+    font-size: 30px;
+
+}
+
+
+.main a:hover{
+    background-color: darksalmon;
+    height: 10px;
+    color: black;
+    border-radius: 5px;
+}
